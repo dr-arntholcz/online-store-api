@@ -8,22 +8,22 @@
         },
         {
           "date": "11.05.2021",
-          "category": "Education",
+          "category": "Work",
           "price": 789
         },
         {
           "date": "10.05.2021",
-          "category": "Education",
+          "category": "Entertainment",
           "price": 2000
         },
         {
           "date": "13.05.2021",
-          "category": "Education",
+          "category": "Work",
           "price": 3123
         },
         {
           "date": "15.03.2021",
-          "category": "Education",
+          "category": "Travel",
           "price": 456
         },
         {
@@ -33,7 +33,7 @@
         },
         {
           "date": "11.05.2021",
-          "category": "Education",
+          "category": "Entertainment",
           "price": 200
         }
       ]
