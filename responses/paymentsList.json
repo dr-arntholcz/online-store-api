@@ -1,37 +1,47 @@
 [
          {
-          "date": "13.05.2021", "category": "Education", "price": 123 },
-        {
+                  "number":1,
+          "date": "13.05.2021",
+                  "category": "Education",
+                  "price": 123 },
+        { 
+                 "number":2,
           "date": "12.05.2021",
           "category": "Education",
           "price": 456
         },
-        {
+        { 
+                 "number":3,
           "date": "11.05.2021",
           "category": "Work",
           "price": 789
         },
-        {
+        { 
+                 "number":4,
           "date": "10.05.2021",
           "category": "Entertainment",
           "price": 2000
         },
-        {
+        { 
+                 "number":5,
           "date": "13.05.2021",
           "category": "Work",
           "price": 3123
         },
         {
+                 "number":6,
           "date": "15.03.2021",
           "category": "Travel",
           "price": 456
         },
         {
+                 "number":7,
           "date": "17.05.2021",
           "category": "Education",
           "price": 789
         },
-        {
+        { 
+                 "number":8,
           "date": "11.05.2021",
           "category": "Entertainment",
           "price": 200
